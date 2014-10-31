@@ -10,10 +10,6 @@ This plugin enables content editors to embed a tweet into a post as a link. When
 
 0.0.1
 
-**Dependencies**
-
-- jQuery
-
 **Installation**
 
 1. Drag the wp-tweetable-text folder into the root of your current theme
