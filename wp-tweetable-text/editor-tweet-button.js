@@ -1,5 +1,5 @@
 
-//creates a twitter button that will add a highlighted twitter string on the blog post
+//creates a twitter button that will add a highlighted twitter string to a post
 
 (function() {
     tinymce.PluginManager.add('add_tweet_button', function( editor, url ) {
